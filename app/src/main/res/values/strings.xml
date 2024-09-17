@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musical Learning App</string>
+    <string name="welcome_message">Bem-vindo ao App Musical</string>
+    <string name="music_lessons">Aulas de Música</string>
+    <string name="music_quiz">Quiz Musical</string>
+    <string name="settings">Configurações</string>
+</resources>
